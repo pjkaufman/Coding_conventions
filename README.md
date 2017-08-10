@@ -1,3 +1,9 @@
-# php_coding_standards
+# Coding Conventions
 ###### By Peter Kaufman
-This repo is where I am putting my phar file for php-cs-fixer.  
+This repo is where I am putting my coding conventions for anyone that might like to contribute to any of my repositories. 
+## PHP
+### Setup
+#### Atom Plugins
+-Download the three phar files
+-Copy path to the php-cs-fixer-v2.phar file and put that in the phar-cs-fixer setting.
+-Copy path to php executable in the php setting
