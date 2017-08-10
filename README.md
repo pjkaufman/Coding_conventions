@@ -1,2 +1,3 @@
 # php_coding_standards
-My php coding standards for my repositories
+###### By Peter Kaufman
+This repo is where I am putting my phar file for php-cs-fixer.  
