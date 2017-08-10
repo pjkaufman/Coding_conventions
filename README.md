@@ -1,4 +1,4 @@
-![Repo Size](https://reposs.herokuapp.com/?path=pjkaufman/Coding_conventions)
+[![Repo Size](https://reposs.herokuapp.com/?path=pjkaufman/Coding_conventions)](https://github.com/pjkaufman/Coding_conventions)
 [![Current Issues](https://img.shields.io/github/issues/pjkaufman/Coding_conventions.svg)](https://github.com/pjkaufman/Coding_conventions/issues)
 [![License](https://img.shields.io/github/license/pjkaufman/Coding_conventions.svg)](https://github.com/pjkaufman/Coding_conventions/blob/master/LICENSE)
 
