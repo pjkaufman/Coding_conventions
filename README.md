@@ -1,4 +1,5 @@
-[![Build Status](https://img.shields.io/github/issues/pjkaufman/Coding_conventions.svg)](https://github.com/pjkaufman/Coding_conventions/issues)
+[![Current Issues](https://img.shields.io/github/issues/pjkaufman/Coding_conventions.svg)](https://github.com/pjkaufman/Coding_conventions/issues)
+[![License](https://img.shields.io/github/license/pjkaufman/Coding_conventions.svg)](https://github.com/pjkaufman/Coding_conventions/blob/master/LICENSE)
 # Coding Conventions
 ###### By Peter Kaufman
 This repo is where I am putting my coding conventions for anyone that might like to contribute to any of my repositories. 
