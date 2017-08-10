@@ -1,3 +1,4 @@
+[![HitCount](https://hitt.herokuapp.com/{pjkaufman}/{Coding_conventions}.svg)](https://github.com/{pjkaufman}/{Coding_conventions)
 # Coding Conventions
 ###### By Peter Kaufman
 This repo is where I am putting my coding conventions for anyone that might like to contribute to any of my repositories. 
