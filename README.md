@@ -1,3 +1,4 @@
+https://img.shields.io/github/issues/pjkaufman/Coding_conventions.svg
 # Coding Conventions
 ###### By Peter Kaufman
 This repo is where I am putting my coding conventions for anyone that might like to contribute to any of my repositories. 
