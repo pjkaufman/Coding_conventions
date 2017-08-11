@@ -7,8 +7,8 @@ This repo is where I am putting my coding conventions for anyone that might like
 
 ``"path-to-php.exe-file \php.exe" "path-to-php.exe-file\executable-phar-file extract -f "path-to-phar-file-to-extract" "path-where-to-put-the-extracted-folder"``
 
-When you are done, then run this code to setup the .phar file:  
-  
+-When you are done, then run this code to setup the .phar file:  
+
 ``"path-to-php.exe-file \php.exe" "path-to-php.exe-file\executable-phar-file pack -f "path-to-phar-file-to-pack" "folder-that-contains-all-of-the-extracted-library"``
 ## PHP
 ### Setup
