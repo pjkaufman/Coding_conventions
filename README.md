@@ -5,7 +5,7 @@ This repo is where I am putting my coding conventions for anyone that might like
 -Go to Command Line or Command Prompt  
 -Edit and run the following command:
 
-`phar.phar extract -f "path-to-the-phar-file\file-name.phar"``
+``phar.phar extract -f "path-to-the-phar-file\file-name.phar"``
 
 -The code will be extracted to a folder called src in your current directory
 -When you are done, then run this code to setup the .phar file:  
