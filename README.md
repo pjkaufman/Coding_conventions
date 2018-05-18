@@ -10,10 +10,17 @@ This repo is where I am putting my coding conventions for anyone that might like
 -The code will be extracted to a folder called src in your current directory
 -When you are done, then run this code to setup the .phar file:  
 
-``phar.phar pack -f "where-to-put-the-phar-file\file-name.phar" "fpath-to-folder-to-pack"``
+``phar.phar pack -f "where-to-put-the-phar-file\file-name.phar" "path-to-folder-to-pack"``
 ## PHP
 ### Setup
-#### Atom Plugins
--Download the three phar files
--Copy path to the php-cs-fixer-v2.phar file and put that in the phar-cs-fixer setting.  
+### Atom Plugin
+-install atom-bueatify
+#### Atom Plugins Settings
+-Download the phar file
+
+-Copy path to the php-cs-fixer-v2.phar file and put that in the phar-cs-fixer setting.
+
 -Copy path to php executable in the php setting  
+## Java
+### Atom Plugin
+-install atom-bueatify
