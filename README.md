@@ -5,11 +5,12 @@ This repo is where I am putting my coding conventions for anyone that might like
 -Go to Command Line or Command Prompt  
 -Edit and run the following command:
 
-``"path-to-php.exe-file \php.exe" "path-to-php.exe-file\executable-phar-file extract -f "path-to-phar-file-to-extract" "path-where-to-put-the-extracted-folder"``
+`phar.phar extract -f "path-to-the-phar-file\file-name.phar"``
 
+-The code will be extracted to a folder called src in your current directory
 -When you are done, then run this code to setup the .phar file:  
 
-``"path-to-php.exe-file \php.exe" "path-to-php.exe-file\executable-phar-file pack -f "path-to-phar-file-to-pack" "folder-that-contains-all-of-the-extracted-library"``
+``phar.phar pack -f "where-to-put-the-phar-file\file-name.phar" "fpath-to-folder-to-pack"``
 ## PHP
 ### Setup
 #### Atom Plugins
