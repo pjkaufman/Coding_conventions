@@ -13,6 +13,9 @@ This repo is where I am putting my coding conventions for anyone that might like
 ## PHP
 ### Setup
 #### Atom Plugins
--Download the three phar files
+-Download the the phar file
 -Copy path to the php-cs-fixer-v2.phar file and put that in the phar-cs-fixer setting.  
 -Copy path to php executable in the php setting  
+#### Visual Studio Code Plugins
+-Download the the phar file
+-Copy path to the php-cs-fixer-v2.phar file and put that in the phar-cs-fixer setting.  
